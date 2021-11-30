@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40699" started-at="2021-11-30T13:15:00Z" finished-at="2021-11-30T13:15:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40699" started-at="2021-11-30T13:15:00Z" finished-at="2021-11-30T13:15:40Z">
+      <class name="com.btext.qa.Testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.btext.qa.Testcases.LoginPageTest@6a4f787b]" name="setUp" is-config="true" duration-ms="29007" started-at="2021-11-30T18:45:00Z" finished-at="2021-11-30T18:45:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.btext.qa.Testcases.LoginPageTest@6a4f787b]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-11-30T18:45:29Z" finished-at="2021-11-30T18:45:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="VerifyLoginPageTitleTest()[pri:1, instance:com.btext.qa.Testcases.LoginPageTest@6a4f787b]" name="VerifyLoginPageTitleTest" duration-ms="55" started-at="2021-11-30T18:45:29Z" finished-at="2021-11-30T18:45:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginPageTitleTest -->
+        <test-method status="PASS" signature="VerifyBanterLogoTest()[pri:2, instance:com.btext.qa.Testcases.LoginPageTest@6a4f787b]" name="VerifyBanterLogoTest" duration-ms="322" started-at="2021-11-30T18:45:29Z" finished-at="2021-11-30T18:45:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyBanterLogoTest -->
+        <test-method status="PASS" signature="VerifyloginPageTest()[pri:3, instance:com.btext.qa.Testcases.LoginPageTest@6a4f787b]" name="VerifyloginPageTest" duration-ms="11251" started-at="2021-11-30T18:45:29Z" finished-at="2021-11-30T18:45:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyloginPageTest -->
+      </class> <!-- com.btext.qa.Testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
