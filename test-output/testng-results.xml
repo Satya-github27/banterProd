@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="40699" started-at="2021-11-30T13:15:00Z" finished-at="2021-11-30T13:15:40Z">
+  <suite name="Suite" duration-ms="34719" started-at="2021-12-01T09:00:56Z" finished-at="2021-12-01T09:01:30Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="40699" started-at="2021-11-30T13:15:00Z" finished-at="2021-11-30T13:15:40Z">
+    <test name="Test" duration-ms="34719" started-at="2021-12-01T09:00:56Z" finished-at="2021-12-01T09:01:30Z">
       <class name="com.btext.qa.Testcases.LoginPageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.btext.qa.Testcases.LoginPageTest@6a4f787b]" name="setUp" is-config="true" duration-ms="29007" started-at="2021-11-30T18:45:00Z" finished-at="2021-11-30T18:45:29Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.btext.qa.Testcases.LoginPageTest@685cb137]" name="setUp" is-config="true" duration-ms="23386" started-at="2021-12-01T14:30:56Z" finished-at="2021-12-01T14:31:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.btext.qa.Testcases.LoginPageTest@6a4f787b]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-11-30T18:45:29Z" finished-at="2021-11-30T18:45:29Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.btext.qa.Testcases.LoginPageTest@685cb137]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-12-01T14:31:19Z" finished-at="2021-12-01T14:31:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="VerifyLoginPageTitleTest()[pri:1, instance:com.btext.qa.Testcases.LoginPageTest@6a4f787b]" name="VerifyLoginPageTitleTest" duration-ms="55" started-at="2021-11-30T18:45:29Z" finished-at="2021-11-30T18:45:29Z">
+        <test-method status="PASS" signature="VerifyLoginPageTitleTest()[pri:1, instance:com.btext.qa.Testcases.LoginPageTest@685cb137]" name="VerifyLoginPageTitleTest" duration-ms="35" started-at="2021-12-01T14:31:19Z" finished-at="2021-12-01T14:31:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyLoginPageTitleTest -->
-        <test-method status="PASS" signature="VerifyBanterLogoTest()[pri:2, instance:com.btext.qa.Testcases.LoginPageTest@6a4f787b]" name="VerifyBanterLogoTest" duration-ms="322" started-at="2021-11-30T18:45:29Z" finished-at="2021-11-30T18:45:29Z">
+        <test-method status="PASS" signature="VerifyBanterLogoTest()[pri:2, instance:com.btext.qa.Testcases.LoginPageTest@685cb137]" name="VerifyBanterLogoTest" duration-ms="246" started-at="2021-12-01T14:31:19Z" finished-at="2021-12-01T14:31:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyBanterLogoTest -->
-        <test-method status="PASS" signature="VerifyloginPageTest()[pri:3, instance:com.btext.qa.Testcases.LoginPageTest@6a4f787b]" name="VerifyloginPageTest" duration-ms="11251" started-at="2021-11-30T18:45:29Z" finished-at="2021-11-30T18:45:40Z">
+        <test-method status="PASS" signature="VerifyloginPageTest()[pri:3, instance:com.btext.qa.Testcases.LoginPageTest@685cb137]" name="VerifyloginPageTest" duration-ms="10988" started-at="2021-12-01T14:31:19Z" finished-at="2021-12-01T14:31:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyloginPageTest -->
       </class> <!-- com.btext.qa.Testcases.LoginPageTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
